@@ -1,7 +1,7 @@
 # Perpetual-Arbitrage-Tradergotchi (PATs)
 Are basically like Tamagotchis except its a little pet degen trader.  
 
-When you buy a token you decide on tiers of starting capital for your tradergotchi to start with, theres tiers have different artwork assiciated.
+When you buy a tradergotchi nft you decide on tiers of starting capital for your tradergotchi to start with, these tiers have different artwork assiciated.
 
 Your tradergotchi is a dynamic nft, it will always be displaying an animated scene of you tradergotchi in its cube room.
 
